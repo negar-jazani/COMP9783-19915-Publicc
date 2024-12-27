@@ -1,2 +1,2 @@
 # COMP9783-19915-Publicc
-COMP9783-19915-Public Repo Lab
+Masumeh Jazani
